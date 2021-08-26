@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Customized 
+*.tlog
+*.log
+Debug
+Release
